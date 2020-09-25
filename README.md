@@ -2,5 +2,4 @@
 --Donald E. Knuth 1978
 
 ![He Zhang's github stats](https://github-readme-stats.vercel.app/api?username=gnahZ-eH&count_private=true&show_icons=true&theme=merkos)
-<!--
-**gnahZ-eH/gnahZ-eH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
